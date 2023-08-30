@@ -28,9 +28,9 @@
 
 ## Welcome to Hello-react-front-end 
 
-Hello-react-front-end is a react app that display a random greeting that is fetched by a rails API.
+Hello-react-front-end is a react app that displays a random greeting that is fetched by a rails API.
 
-Link to rails App: https://github.com/smunoz1988/hello-rails-back-end
+Link to rails App: https://github.com/julzedz/hello-rails-back-end
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -64,12 +64,12 @@ In order to run this project you need:
 
 ```sh
   cd my-folder
-  git clone https://github.com/christianonoh/hello-react-front-end.git
+  git clone https://github.com/julzedz/hello-react-front-end.git
 ```
 
 ### Install
 
-This project requires react dependencies. Also, it uses Eslint and Stylelint as a linters.
+This project requires react dependencies. Also, it uses Eslint and Stylelint as linters.
 
 ```sh
   npm install
@@ -127,13 +127,13 @@ Contributions, issues, and feature requests are welcome!
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project please follow me to find more projects of this type in future.
+If you like this project please follow me to see more projects.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank to mi coding partners from Microverse bootcamp.
+I would like to thank my coding partners from Microverse.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
