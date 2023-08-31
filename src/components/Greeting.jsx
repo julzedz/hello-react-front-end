@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { getMessages } from "../redux/messagesSlice";
 
-export const Message = () => {
+export const Greeting = () => {
   const dispatch = useDispatch();
   const messages = useSelector((state) => state.messages.messages);
 
